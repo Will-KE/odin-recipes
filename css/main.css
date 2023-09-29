@@ -2,11 +2,17 @@
     margin: 0;
     padding: 0;
     background-color: wheat;
+    font-family: "Nunito sans", Georgia, 'Times New Roman', Times, serif;
+
+}
+
+ .container{
+    margin: 0px 20px 20px 20px; 
 }
 
 h1{
     font-size: 36px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Nunito sans", Georgia, 'Times New Roman', Times, serif;
     font-weight: 900;
     text-align: center;
     margin-bottom: 10px;
@@ -15,7 +21,7 @@ h1{
 img{
     width: 95%;
     height: 100%;
-    margin-left: 30px;
+    /* margin-left: 10px; */
     margin-top: 10px;
 
 }
